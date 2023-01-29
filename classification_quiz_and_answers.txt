@@ -1,0 +1,95 @@
+3: In the confusion metrix, which one is the formula for the classification evaluation metric, recall?
+ (True Positives) / (True Positives + False Negatives)
+ (True Positives) / (True Positives + True Negatives)
+ (True Positives) / (False Positives + True Positives)
+ (True Positives) / (False Positives + True Negatives)
+
+(True Positives) / (True Positives + False Negatives) is the formula for the classification evaluation metric, recall.
+
+
+
+Question 2: Which of the following statements about the sigmoid function is correct?
+ It transforms given inputs into the range from 0 to 1
+ It is typically used to solve regression problems
+ The shape of the function in a plane resembles the letter Z
+ After using the sigmoid function, we get a negative value
+
+It transforms given inputs into the range from 0 to 1 is correct statement about the sigmoid function.
+
+Question 1: Which of the following algorithms is best suited to solve a binary classification problem?
+ Logistic regression
+ Linear regression
+ Lasso regression
+ None of above
+
+Logistic regression is best suited to solve a binary classification problem.
+
+
+
+ 4: In the confusion matrix, which values do we want to maximize? There are two correct answers.
+ True positives
+ True negatives
+ False positives
+ False negatives
+
+We want to maximize True positives and True negatives in the confusion matrix.
+
+
+
+Question 5: Which of the following statements is correct?
+ Classification problems with two class labels are called binary classification
+ Like linear regression, logistic regression can only be used when there is a linear relationship between input and output variables
+ In the confusion matrix, “false positives” and “false negatives” need to be maximized
+ In the confusion matrix, “true positives” and “true negatives” need to be minimized,
+
+Classification problems with two class labels are called binary classification is correct statement.
+
+
+
+Question 6: What is a hyper-plane?
+ A line
+ A 2D plane
+ A 3D plane
+ A multidimensional plane that exists in four or more dimensions
+
+A hyper-plane is a multidimensional plane that exists in n-dimensional space.
+
+
+
+Question 7: What is the SVM called when the hyper-plane is non-linear?
+ Linear kernel
+ Polynomial kernel
+ F1 score
+ None of the above
+
+The SVM is called a Non-linear kernel when the hyper-plane is non-linear.
+
+
+
+Question 8: Which of the following is an example of a binary classification?
+ Spam or no spam
+ Weight of tomato harvest
+ Temperature prediction
+ Car, plane or bicycle
+
+Spam or no spam is an example of a binary classification.
+
+
+
+Question 9: Which of the following functions of sklearn splits data into a train and a test dataset?
+ split()
+ separate()
+ train_test_split()
+ test_train_split()
+
+train_test_split() function of sklearn splits data into a train and a test dataset.
+
+
+
+Question 10: Which of the following statements is true about the support vector machine algorithm (SVM)?
+ It can only be used for regression problems
+ It uses decision boundaries to separate classes
+ It works with numerical type target variables
+ It uses hyper-planes that exist in three dimensions
+
+It uses decision boundaries to separate classes and uses hyper-planes that exist in n-dimensional space are true statements about the support vector machine algorithm (SVM).
