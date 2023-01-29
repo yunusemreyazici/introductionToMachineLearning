@@ -1,0 +1,113 @@
+Question 1: Which of the following statements describes underfitting? There are two correct answers.
+
+ The model tries to fit each datapoint
+ The model ignores a large portion of the data
+ The model learns too many details on data
+ The model is unable to find the patterns in the data
+
+The model learns too many details on data.
+
+
+
+Question 2: Which of the following statements describes overfitting? There are two correct answers.
+
+ The model tries to fit each datapoint
+ The model ignores a large portion of the data
+ The model learns too many details on the data
+ The model is unable to find the patterns in the data
+
+The model tries to fit each datapoint.
+The model learns too many details on the data.
+
+
+
+Question 3: How are bias and variance related to overfitting and underfitting? Drag the answers to the correct category.
+
+Sort elements
+overfittingunderfitting
+High variance and low bias
+Low variance and high bias
+
+overfitting: High variance and low bias
+underfitting: Low variance and high bias
+
+
+
+
+Yunus Emre YAZICI
+Question 4: What is the relationship between variance and bias? There are two correct answers.
+
+ As variance increases, bias decreases
+ As variance decreases, bias increases
+ As variance increases, bias increases
+ As variance decreases, bias decreases
+
+As variance increases, bias decreases.
+As variance decreases, bias increases.
+
+
+
+Question 5: Which of the following statements about lambda in the L1 & L2 loss functions are correct? There are two correct answers.
+
+ It is a tuning parameter
+ It defines the degree of penalization
+ It increases the coefficient size
+ It describes the fit of a model
+
+It is a tuning parameter.
+It defines the degree of penalization.
+
+
+
+Question 6: Which of the following statements is correct?
+
+ The L1 loss function penalizes the model by the absolute weight coefficients
+ The L2 loss function penalizes the model by the squared weight coefficients
+ The L1 loss function is not affected by outliers, whereas the L2 loss function is
+ All of the above
+
+The L1 loss function penalizes the model by the absolute weight coefficients.
+
+
+
+Question 7: Suppose your model is overfitting. Which of the following is a wrong way to reduce overfitting?
+
+ Increasing the amount of training data
+ Regularization
+ Decreasing the model complexity
+ Feature Selection
+
+Decreasing the amount of training data.
+
+
+
+Question 8: When there are outliers in the dataset, using the _______ is not useful because taking squares of the differences between the actual and predicted values will lead to a much larger error. Please fill in the required field with the correct option.
+
+ Regularization term
+ L2 loss function
+ L1 loss function
+ Error term
+
+L2 loss function.
+
+
+
+Question 9: Where can the regularization L2 loss function be used?
+
+ Lasso regression
+ Ridge regression
+ Linear regression
+ Logistic regression
+
+Ridge regression.
+
+
+
+Question 10: The _______ refers to the sensitivity of a model to specific datasets. Please fill in the required field with the correct option.
+
+ bias
+ variance
+ standard deviation
+ mean
+
+Variance.
