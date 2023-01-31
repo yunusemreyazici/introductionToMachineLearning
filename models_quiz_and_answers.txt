@@ -1,0 +1,162 @@
+Question 1: Which of the following statements describes the decision tree algorithm?
+
+ A network with layers
+ A statistical distribution
+ A series of if-else statements
+ A linear relationship
+
+A series of if-else statements.
+
+
+
+Question 2: What are the disadvantages of decision trees? There are two correct answers.
+
+ Data needs to be normalized and scaled
+ They require longer time to train
+ They are prone to overfit to complicated data
+ Missing values significantly affect the performance
+
+Prone to overfit to complicated data, Missing values significantly affect performance.
+
+
+
+Question 3: What types of problems can decision trees solve? There are two correct answers.
+
+ Regression
+ Classification
+ Clustering
+ Normalization
+
+Regression, Classification.
+
+
+
+Question 4: What does “pruning” do?
+
+ Changes decision nodes manually
+ Removes unnecessary features to prevent overfitting
+ Scales the data
+ Provides decisions to the algorithm manually
+
+Removes unnecessary features to prevent overfitting.
+
+
+
+Question 5: Which of the following statements about random forest and decision trees are true? There are three correct answers.
+
+ Random forest is less impacted by changes in the data compared to decision trees
+ Random forest is more complex compared to decision trees
+ Both random forest and decision trees are clustering algorithms
+ Random forest resolves the overfitting problem of decision trees
+
+Random forest is less impacted by changes in the data compared to decision trees, Random forest resolves the overfitting problem of decision trees, Random forest is more complex compared to decision trees.
+
+
+
+Question 6: Which of the following is true about the “Bayes” theorem?
+
+ It is the reverse of conditional probability
+ It is an extension of conditional probability that allows reverse reasoning
+ It is represented by P(A|B) = P(B|A) * P(B) / P(A)
+ None of the above
+
+It is represented by P(A|B) = P(B|A) * P(B) / P(A).
+
+
+
+Question 7: Which of the Naive Bayes classifiers we should choose in the case of working with binary data in sklearn?
+
+ Bernoulli Naive Bayes
+ Multinomial Naive Bayes
+ Gaussian Naive Bayes
+ Binary Naive Bayes
+
+Bernoulli Naive Bayes.
+
+
+
+Question 8: Which of the following statements about Naive Bayes algorithm is correct?
+
+ It can produce good results with a small amount of data
+ It is usually used for benchmarking of a model
+ It can discretize continuous data
+ All of the above
+
+It can produce good results with a small amount of data.
+
+
+
+Question 9: Which of the following is a disadvantage of the Naive Bayes algorithm?
+
+ It takes long to train
+ It assumes features are independent, which may lead to wrong results
+ It requires a lot of data
+ It does not work well with continuous data
+
+It assumes features are independent, which may lead to wrong results.
+
+
+
+Question 10: Why is the Naive Bayes algorithm called “naive”?
+
+ It assumes features are independent when calculating the conditional probabilities
+ It generally has low accuracy
+ It assumes features are dependent when calculating the conditional probabilities
+ It only works on less complex problems
+
+It assumes features are independent when calculating the conditional probabilities.
+
+
+
+Question 11: Which layer of neural networks sends the information to the output layer?
+
+ Input layer
+ Hidden layer
+ Output layer
+ None of the above
+
+Hidden layer.
+
+
+
+Question 12: Which of the following statements about activation function is correct? There are two correct answers.
+
+ It is a linear function
+ It works like a threshold
+ It determines the output between the desired range
+ Only example of activation function is sigmoid function
+
+It works like a threshold, determines the output between the desired range.
+
+
+
+Question 13: What do “weights” and “bias” mean in neural networks? Drag the answers to the correct category.
+
+Sort elements
+Weights
+Analogue to the intercept in linear regression
+Bias
+Indicate how much influence the input has on the output
+
+Weights: Indicate how much influence the input has on the output
+Bias: Analogue to the intercept in linear regression
+
+
+
+Question 14: What are the steps of the forward propagation process? Please order them chronologically.
+
+Input layer receives the input data
+The weights and bias are added to the initial value of each perceptron
+The activation function transforms the input to determine whether or not to activate the perceptron
+Output layer receives values and computes the output.
+
+
+
+Question 15: What can we do to improve Neural Networks?
+
+ Apply backpropagation method
+ Remove features
+ Add some outliers
+ None of the above
+
+Apply backpropagation method.
