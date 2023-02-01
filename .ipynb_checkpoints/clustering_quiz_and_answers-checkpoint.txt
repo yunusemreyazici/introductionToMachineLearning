@@ -1,0 +1,108 @@
+Question 1: What does clustering do?
+
+ It groups different data points according to similarities in their features
+ It finds the nearest neighbor according to the data points
+ It highlights the best data from a dataset
+ It categorizes a given set into classes
+
+Clustering is an unsupervised learning technique that groups similar data points together based on their features. It is a way of finding natural groupings or clusters in a dataset.
+
+
+
+Question 2: Which of the following statements are true? There are two correct answers.
+
+ Clustering is an unsupervised learning technique
+ Clustering does not require labels
+ Clustering is unable to group instances from a dataset independently
+ Clustering groups two objects that are different from each other together
+
+Clustering is an unsupervised learning technique
+Clustering does not require labels
+
+
+
+Question 3: Which of the following examples is related to clustering?
+
+ In marketing, it can be used to characterize and discover consumer segments
+ In insurance, it can be used to group customers based on similar behavior, preferences or policies
+ In real estate, it can be used to group houses together and investigate their values based on their geographic locations and other criteria
+ All of the above
+
+All of the above examples are related to clustering. Clustering can be used in a variety of fields to group similar items together based on certain characteristics or features.
+
+
+
+Question 4: What does “K” mean in K–means clustering?
+
+ Datasets
+ Number of clusters
+ Error Function
+ None of them
+
+"K" in K-means clustering refers to the number of clusters. K-means algorithm is a way to group similar data points into K clusters.
+
+
+
+Question 5: How does the K-means clustering algorithm work? Order the steps chronologically.
+
+Assigning data to clusters
+Selecting centroids randomly
+Optimizing the centroid position iteratively
+Initializing “k” number of center points
+
+Initializing “k” number of center points
+Selecting centroids randomly
+Optimizing the centroid position iteratively
+Assigning data to clusters
+
+
+
+Question 6: Which of the following statements about K-means are correct? There are two correct answers.
+
+ Small number of K results in large clusters
+ Small number of K results in small clusters
+ Big number of K result in small clusters
+ Big number of K results in large clusters
+
+Small number of K results in large clusters
+Big number of K results in small clusters
+
+
+
+Question 7: Which of the following performance evaluation metrics is used in clustering?
+
+ MSE
+ R2-score
+ Silhouette coefficient
+ Precision
+
+Silhouette coefficient
+
+
+
+Question 8: What does the Silhouette coefficient do? There are three correct answers.
+
+ Measures the performance of clustering algorithms
+ Takes the average distance of a sample and all other points in the same cluster
+ Takes the average distance of the sample point to the points in the nearest cluster
+ Draws the silhouette of clusters in a graph
+Measures the performance of clustering algorithms
+
+Takes the average distance of a sample and all other points in the same cluster
+Takes the average distance of the sample point to the points in the nearest cluster
+
+
+
+
+Yunus Emre YAZICI
+Question 9: What do the different scores of the silhouette coefficient mean? Drag the answers next to the correct category.
+
+Sort elements
+Non-meaningful clustersDense and well separated clustersOverlapping clusters
+
+Non-meaningful clusters: -1
+Dense and well separated clusters: 0.7 to 1
+Overlapping clusters: between -0.1 and 0.7
+
+
+10 = "3"
